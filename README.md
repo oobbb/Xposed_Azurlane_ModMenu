@@ -1,1 +1,5 @@
 # Xposed_Azurlane_ModMenu
+基于LSPosed框架和LGLMenu的碧蓝航线模组菜单
+只需在框架内勾选游戏即可
+理论上兼容全部游戏版本
+如需要免root使用可以尝试Lspatch
